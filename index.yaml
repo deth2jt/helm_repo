@@ -3,7 +3,7 @@ entries:
   guestbk:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-02-28T16:36:04.396581268Z"
+    created: "2024-02-28T16:58:22.275639523Z"
     dependencies:
     - name: redis
       repository: https://charts.bitnami.com/bitnami
@@ -15,4 +15,4 @@ entries:
     urls:
     - guestbk-0.1.0.tgz
     version: 0.1.0
-generated: "2024-02-28T16:36:04.384998266Z"
+generated: "2024-02-28T16:58:22.264296058Z"
