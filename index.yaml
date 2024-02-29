@@ -16,3 +16,6 @@ entries:
     - guestbk-0.1.0.tgz
     version: 0.1.0
 generated: "2024-02-28T16:58:22.264296058Z"
+#helm repo index $GITHUB_CHART_REPO_CLONE
+##git remote set-url origin
+##helm package guestbk
